@@ -58,7 +58,7 @@ public class MainActivity extends Activity implements AdapterView.OnItemClickLis
         etPrice = (EditText) findViewById(R.id.etPrice);
         tvAllPrice = (TextView) findViewById(R.id.tvAllPrice);
         sType = (Spinner) findViewById(R.id.sType);
-
+        //测试Mac桌面程序
     }
 
     @Override
