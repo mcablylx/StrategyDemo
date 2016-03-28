@@ -60,6 +60,8 @@ public class MainActivity extends Activity implements AdapterView.OnItemClickLis
         sType = (Spinner) findViewById(R.id.sType);
         //测试Mac桌面程序
         //在测试一次
+        //为什么没提交上去呢??
+        
     }
 
     @Override
