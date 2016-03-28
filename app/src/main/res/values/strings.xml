@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StrategyDemo</string>
+    <array name="promotion">
+        <item>无</item>
+        <item>9折</item>
+        <item>8折</item>
+        <item>满300减50</item>
+    </array>
+</resources>
