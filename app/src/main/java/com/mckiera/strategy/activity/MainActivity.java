@@ -106,5 +106,6 @@ public class MainActivity extends Activity implements AdapterView.OnItemClickLis
         curPromotion = "";
         tvAllPrice.setText("");
         sType.setSelection(0);
+        //用Mac提交试试
     }
 }
